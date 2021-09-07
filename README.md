@@ -4,7 +4,7 @@
 **Godswilly/Godswilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently **job searching** at Microverse Inc.
+- 🔭 I’m currently **job searching**.
 - 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript, React and Redux)
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
 - 🤔 I’m looking for help with JavaScript, React and Ruby On Rails
