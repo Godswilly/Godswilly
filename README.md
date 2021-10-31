@@ -5,12 +5,10 @@
 -->
 
 - 🔭 I’m currently **job searching**.
-- 🌱 I’m currently learning Full Stack Web Development (Ruby on Rails, JavaScript, React and Redux)
-- 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project
+- 👯 I’m looking to collaborate on JavaScript, React, Ruby on Rails and Node Projects.
 - 🤔 I’m looking for help with JavaScript, React and Ruby On Rails
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/KaluAguKalu17), [Linkedin](https://www.linkedin.com/in/kalu-agu-kalu/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: When a target is defined, direction appears
 
 
