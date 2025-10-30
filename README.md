@@ -5,8 +5,8 @@
 -->
 
 - 🔭 I’m currently **job searching**.
-- 👯 I’m looking to collaborate on JavaScript, React, Ruby on Rails and Node Projects.
-- 🤔 I’m looking for help with JavaScript, React and Ruby On Rails
+- 👯 I’m looking to collaborate on JavaScript, React, Nest.js, and Node Projects.
+- 🤔 I’m looking for help with JavaScript, React, and Nest.js
 - 💬 Ask me about Web Development
 - 📫 How to reach me: [Twitter](https://twitter.com/KaluAguKalu17), [Linkedin](https://www.linkedin.com/in/kalu-agu-kalu/)
 - ⚡ Fun fact: When a target is defined, direction appears
